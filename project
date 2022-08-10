@@ -1,0 +1,8 @@
+webpack-demo
+|- package.json
+|- package-lock.json
+|- webpack.config.js
+|- /dist
+  |- index.html
+|- /src
+  |- index.js
